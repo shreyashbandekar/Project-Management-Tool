@@ -1,0 +1,125 @@
+.teams {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 93px 0 376px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.teams .get-number-of-teams {
+  margin-bottom: 102px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Averia Serif Libre";
+  font-weight: 400;
+  font-size: 67px;
+  line-height: 0.738;
+  text-transform: capitalize;
+  color: #000000;
+}
+.teams .check-box {
+  border-radius: 13.3px;
+  border: 3.3px solid #000000;
+  margin: 0 21.3px 7.1px 0;
+  width: 59.9px;
+  height: 59.9px;
+}
+.teams .mini-project {
+  overflow-wrap: break-word;
+  font-family: "Averia Serif Libre";
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 1.115;
+  text-transform: capitalize;
+  color: #000000;
+}
+.teams .check-box-1 {
+  border-radius: 13.3px;
+  border: 3.3px solid #000000;
+  margin-right: 21.5px;
+  width: 59.9px;
+  height: 59.9px;
+}
+.teams .check-box-2 {
+  border-radius: 13.3px;
+  border: 3.3px solid #000000;
+  margin-right: 27.5px;
+  width: 59.9px;
+  height: 59.9px;
+}
+.teams .check-box-3 {
+  border-radius: 13.3px;
+  border: 3.3px solid #000000;
+  margin: 0 21.4px 9.1px 0;
+  width: 59.9px;
+  height: 59.9px;
+}
+.teams .major-project {
+  margin-bottom: 0.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Averia Serif Libre";
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 0.99;
+  text-transform: capitalize;
+  color: #000000;
+}
+.teams .pgproject {
+  margin-bottom: 1.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Averia Serif Libre";
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 0.966;
+  text-transform: capitalize;
+  color: #000000;
+}
+.teams .other {
+  overflow-wrap: break-word;
+  font-family: "Averia Serif Libre";
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 1.148;
+  text-transform: capitalize;
+  color: #000000;
+}
+.teams .container {
+  margin: 0 80.2px 50px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.teams .container-1 {
+  margin-right: 260.3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.teams .container-2 {
+  margin: 0 46.4px 50.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.teams .container-3 {
+  margin: 0 135.4px 48.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+body{
+  background: #FFFFFF;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 93px 0 376px 0;
+width: 1440px;
+box-sizing: border-box;
+}
